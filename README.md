@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">💼 Web Developer<br>👨‍🎓  graduate of Computer Science faculty at the Technical University of Lodz<br>📫 you can reach me via:<br>    - LinkedIn: <strong>https://www.linkedin.com/in/jan-nowak-678613243/</strong><br>    - Email: <a href="nowak.jan@yahoo.com"><strong>nowak.jan@yahoo.com</strong></a></p>
+💼 Web Developer<br>👨‍🎓  graduate of Computer Science faculty at the Technical University of Lodz<br>📫 you can reach me via:<br>    - LinkedIn: [Jan Nowak LinkedIn account](https://www.linkedin.com/in/jan-nowak-678613243/)<br>    - Email: 
+  <jan.nowak.personal@gmail.com>
 
 ###
 
